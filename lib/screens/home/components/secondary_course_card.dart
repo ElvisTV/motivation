@@ -5,7 +5,7 @@ class SecondaryCourseCard extends StatelessWidget {
   const SecondaryCourseCard({
     Key? key,
     required this.title,
-    this.iconsSrc = "assets/icons/ios.svg",
+    this.iconsSrc = "assets/icons/book.svg",
     this.colorl = const Color(0xFF7553F6),
     this.phrase = 'frase mapeada vertical',
   }) : super(key: key);

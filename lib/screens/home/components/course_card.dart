@@ -6,7 +6,7 @@ class CourseCard extends StatelessWidget {
     Key? key,
     required this.title,
     this.color = const Color(0xFF7553F6),
-    this.iconSrc = "assets/icons/ios.svg",
+    this.iconSrc = "assets/icons/book.svg",
     this.phrase = "phrase mapeada horizontal",
   }) : super(key: key);
 
