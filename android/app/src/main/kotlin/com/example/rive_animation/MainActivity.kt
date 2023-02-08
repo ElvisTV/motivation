@@ -1,4 +1,4 @@
-package com.example.rive_animation
+package com.elvistezen.motivation
 
 import io.flutter.embedding.android.FlutterActivity
 

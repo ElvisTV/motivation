@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.rive_animation">
+    package="com.elvistezen.motivation">
    <application
         android:label="rive_animation"
         android:name="${applicationName}"
